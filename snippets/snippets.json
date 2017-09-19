@@ -1,0 +1,158 @@
+{
+  //Styled-Components
+  "Styled Components: import styled-components": {
+    "prefix": "isc",
+    "body": "import styled from 'styled-components';"
+  },
+  "Styled Components: import styled-components/native": {
+    "prefix": "iscn",
+    "body": "import styled from 'styled-components/native';"
+  },
+  "Styled Components: styled component": {
+    "prefix": "sc",
+    "body": "const ${1:ComponentName} = styled.${2:Component}`\n\t\n`;"
+  },
+  "Styled Components: styled component export": {
+    "prefix": "esc",
+    "body": "export const ${1:ComponentName} = styled.${2:ComponentType}`\n\t\n`;"
+  },
+  "Styled-Components: padding": {
+    "prefix": "padding",
+    "body": "padding: ${2:10px};",
+    "description": "The spacing inside all the view corners. usage: padding: 10px;"
+  },
+  "Styled-Components: padding-left": {
+    "prefix": "padding-left",
+    "body": "padding-left: ${2:10};",
+    "description": "The spacing left from inside the view. usage: padding-left: 10px;"
+  },
+  "Styled-Components: padding-right": {
+    "prefix": "padding-right",
+    "body": "padding-right: ${2:10};",
+    "description": "The spacing right from inside the view. usage: padding-right: 10px;"
+  },
+  "Styled-Components: padding-top": {
+    "prefix": "padding-top",
+    "body": "padding-top: ${2:10};",
+    "description": "The spacing top from inside the view. usage: padding-top: 10px;"
+  },
+  "Styled-Components: padding-bottom": {
+    "prefix": "padding-bottom",
+    "body": "padding-bottom: ${2:10};",
+    "description": "The spacing bottom from inside the view. usage: padding-bottom: 10px;"
+  },
+  "Styled-Components: padding-vertical": {
+    "prefix": "padding-vertical",
+    "body": "padding-vertical: ${2:10};",
+    "description": "The spacing at the top and bottom from inside the view. usage: padding-vertical: 10px;"
+  },
+  "Styled-Components: padding-horizontal": {
+    "prefix": "padding-horizontal",
+    "body": "padding-horizontal: ${2:10};",
+    "description": "The spacing at the left and right from inside the view. usage: padding-horizontal: 10px;"
+  },
+  "Styled-Components: flex": {
+    "prefix": "flex",
+    "body": "flex: ${2:1};"
+  },
+  "Styled-Components: background-color": {
+    "prefix": "background-color",
+    "body": "background-color: ${1:#FFFFFF};",
+    "description": "Changes the background color of your component. usage: background-color: #FFFFF;"
+  },
+  "Styled-Components: border-radius": {
+    "prefix": "border-radius",
+    "body": "border-radius: ${1:10};",
+    "description": "Rouded corners to your component. usage border-radius: 10;"
+  },
+  "Styled-Components: border-style": {
+    "prefix": "border-style",
+    "body": "border-style: ${1:solid};",
+    "description": "Change the border style of your component. usage: border-style: solid;"
+  },
+  "Styled-Components: border-width": {
+    "prefix": "border-width",
+    "body": "border-width: ${1:2};",
+    "description": "Changes the width of the border of your component. usage: border-width: 1;"
+  },
+  "Styled-Components: border-color": {
+    "prefix": "border-color",
+    "body": "border-color: ${2:#FFFFFF};",
+    "description": "Changes the color of the border of your component. usage: border-color: #FFFFFF;"
+  },
+  "Styled-Components: color": {
+    "prefix": "color",
+    "body": "color: ${2:#FFFFFF};",
+    "description": "Changes the text color of your component. usage: color: #FFFFFF;"
+  },
+  "Styled-Components: text-align": {
+    "prefix": "text-align",
+    "body": "text-align: ${2:center};",
+    "description": "Changes the alignment of your text. usage: text-align: center"
+  },
+  "Styled-Components: margin": {
+    "prefix": "margin",
+    "body": "margin: ${2:10};",
+    "description": "Adds external margins to your component. usage: margin: 10;"
+  },
+  "Styled-Components: margin-top": {
+    "prefix": "margin-top",
+    "body": "margin-top: ${2:10};",
+    "description": "Adds margin to the top of your component. usage: margin-top: 10;"
+  },
+  "Styled-Components: margin-bottom": {
+    "prefix": "margin-bottom",
+    "body": "margin-bottom: ${2:10};",
+    "description": "Adds margin to the bottom of your component. usage: margin-bottom: 10;"
+  },
+  "Styled-Components: margin-left": {
+    "prefix": "margin-left",
+    "body": "margin-left: ${2:10};",
+    "description": "Adds margin to the left of your component. usage: margin-left: 10;"
+  },
+  "Styled-Components: margin-right": {
+    "prefix": "margin-right",
+    "body": "margin-right: ${2:10};",
+    "description": "Adds margin to the right of your component. usage: margin-right: 10;"
+  },
+  "Styled-Components: width": {
+    "prefix": "width",
+    "body": "width: ${2:100};",
+    "description": "Changes the width size of your component. usage: width: 100;"
+  },
+  "Styled-Components: height": {
+    "prefix": "height",
+    "body": "height: ${2:100};",
+    "description": "Changes the height size of your component. usage: height: 100;"
+  },
+  "Styled-Components: font-size": {
+    "prefix": "font-size",
+    "body": "font-size: ${2:16};",
+    "description": "Changes the font size of a text."
+  },
+  "Styled-Components: font-weight": {
+    "prefix": "font-weight",
+    "body": "font-weight: ${2:bold};",
+    "description": "Makes the font bolder or lighter. usage: font-weight: 300;"
+  },
+  "Styled-Components: font-family": {
+    "prefix": "font-family",
+    "body": "font-family: ${2:System};",
+    "description": "Changes the font family. usage: font-family: roboto;"
+  },
+  "Styled-Components: flex-direction": {
+    "prefix": "flex-direction",
+    "body": "flex-direction: ${2:row};",
+    "description": "Changes the direction of your components, types: 'column', 'row', 'row-reverse', 'column-reverse'."
+  },
+  "Styled-Components: align-items": {
+    "prefix": "align-items",
+    "body": "align-items: ${2:center};",
+    "description": "The align-items property accepts 5 different values: flex-start: cross-start margin edge of the items is placed on the cross-start line flex-end: cross-end margin edge of the items is placed on the cross-end line center: items are centered in the cross-axis baseline: items are aligned such as their baselines align stretch (default): stretch to fill the container (still respect min-width/max-width)"
+  },
+  "Styled-Components: justify-content": {
+    "prefix": "justify-content",
+    "body": "justify-content: ${2:center};",
+    "description": "flex-start (default): items are packed toward the start line, flex-end: items are packed toward to end line, center: items are centered along the line, space-between: items are evenly distributed in the line; first item is on the start line, last item on the end line, space-around: items are evenly distributed in the line with equal space around them"
+  }
+}

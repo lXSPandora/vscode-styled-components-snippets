@@ -1,0 +1,42 @@
+{
+  // {
+
+  //   "main": "index.js",
+  //   "author": "lXSPandora",
+  //   "license": "MIT"
+  // }
+  "name": "vscode-styled-components-snippets",
+  "description": "Styled-components snippets for vscode",
+  "version": "1.0.0",
+  "displayName": "Styled-components code snippets",
+  "publisher": "lXSPandora",
+  "icon": "images/styled-components.png",
+  "galleryBanner": {
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xabikos/vscode-react"
+  },
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": ["Snippets"],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "jsx",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
