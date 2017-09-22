@@ -1,6 +1,6 @@
 # VS Code Styled-Components snippets
 -------------------
-![alt]("https://github.com/lXSPandora/vscode-styled-components-snippets/blob/master/images/styled-components.png")
+![alt](images/styled-components.png)
 
 This extension contains code snippets and some triggers for JS Styled-Components.
 
