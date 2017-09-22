@@ -2,7 +2,7 @@
 -------------------
 ![alt](images/styled-components.png)
 
-[![Version](https://marketplace.visualstudio.com/items?itemName=lXSPandora.vscode-styled-components-snippets)](https://marketplace.visualstudio.com/items?itemName=lXSPandora.vscode-styled-components-snippets)
+[![See on Market Place](https://marketplace.visualstudio.com/items?itemName=lXSPandora.vscode-styled-components-snippets)](https://marketplace.visualstudio.com/items?itemName=lXSPandora.vscode-styled-components-snippets)
 
 This extension contains code snippets and some triggers for JS Styled-Components.
 
