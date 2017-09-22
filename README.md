@@ -2,6 +2,8 @@
 -------------------
 ![alt](images/styled-components.png)
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/xabikos.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+
 This extension contains code snippets and some triggers for JS Styled-Components.
 
 ## Supported languages (file extensions)
