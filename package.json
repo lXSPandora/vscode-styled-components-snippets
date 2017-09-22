@@ -2,10 +2,15 @@
     "name": "vscode-styled-components-snippets",
     "displayName": "vscode-styled-components-snippets",
     "description": "This extension contains code snippets and some triggers for JS Styled-Components.",
-    "version": "0.0.1",
+    "icon": "images/styled-components.png",
+    "version": "1.0.1",
     "publisher": "lXSPandora",
     "engines": {
         "vscode": "^1.16.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lXSPandora/vscode-styled-components-snippets.git"
     },
     "categories": [
         "Snippets"
